@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:src/main.c">
+   </FileRef>
+   <FileRef
+      location = "group:src/usb/tusb_config.h">
+   </FileRef>
+   <FileRef
+      location = "group:src/usb/usb_audio_midi.h">
+   </FileRef>
+   <FileRef
+      location = "group:src/usb/usb_descriptors.c">
+   </FileRef>
+   <FileRef
+      location = "group:src/CMakeLists.txt">
+   </FileRef>
+</Workspace>
